@@ -11,6 +11,10 @@
     margin: 10px;
     transition: transform 0.2s; /* Add a transition to the transform property */
 }
+.cards .cards-rounded{
+  
+display: flex;
+}
 
 .cards:hover {
     transform: scale(1.05); /* Scale up the card slightly on hover */
